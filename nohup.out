@@ -1,0 +1,32 @@
+[I 2022-08-28 23:32:31.712 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-08-28 23:32:31.782 LabApp] JupyterLab extension loaded from /opt/homebrew/lib/python3.10/site-packages/jupyterlab
+[I 2022-08-28 23:32:31.782 LabApp] JupyterLab application directory is /opt/homebrew/Cellar/python@3.10/3.10.6_1/Frameworks/Python.framework/Versions/3.10/share/jupyter/lab
+[I 2022-08-28 23:32:31.783 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-08-28 23:32:31.784 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod12-Challenge
+[I 2022-08-28 23:32:31.784 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2022-08-28 23:32:31.784 ServerApp] http://localhost:8888/lab?token=b0a92757238b88f0124e43b76d3604a4d98fc3fc249bea5e
+[I 2022-08-28 23:32:31.784 ServerApp]  or http://127.0.0.1:8888/lab?token=b0a92757238b88f0124e43b76d3604a4d98fc3fc249bea5e
+[I 2022-08-28 23:32:31.784 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-08-28 23:32:31.786 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/michaelcruz/Library/Jupyter/runtime/jpserver-1040-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=b0a92757238b88f0124e43b76d3604a4d98fc3fc249bea5e
+     or http://127.0.0.1:8888/lab?token=b0a92757238b88f0124e43b76d3604a4d98fc3fc249bea5e
+[I 2022-08-28 23:32:34.681 LabApp] Build is up to date
+[W 2022-08-28 23:32:34.705 ServerApp] 404 GET /api/contents/NN/preventing_credit_card_defaults_part1.ipynb?content=0&1661743954682 (::1): file or directory does not exist: 'NN/preventing_credit_card_defaults_part1.ipynb'
+[W 2022-08-28 23:32:34.705 ServerApp] file or directory does not exist: 'NN/preventing_credit_card_defaults_part1.ipynb'
+[W 2022-08-28 23:32:34.706 ServerApp] 404 GET /api/contents/NN/preventing_credit_card_defaults_part1.ipynb?content=0&1661743954682 (::1) 1.63ms referer=http://localhost:8888/lab
+[I 2022-08-28 23:32:34.756 ServerApp] New terminal with automatic name: 2
+[W 2022-08-28 23:32:35.349 ServerApp] 404 GET /api/contents/NN?1661743955346 (::1): file or directory does not exist: 'NN'
+[W 2022-08-28 23:32:35.350 ServerApp] file or directory does not exist: 'NN'
+[W 2022-08-28 23:32:35.350 ServerApp] 404 GET /api/contents/NN?1661743955346 (::1) 2.57ms referer=http://localhost:8888/lab
+[W 2022-08-28 23:32:39.789 ServerApp] Notebook credit_risk_resampling.ipynb is not trusted
+[I 2022-08-28 23:32:40.064 ServerApp] Kernel started: e21cf49a-901a-48fc-954a-ca7859b4e4ed
+[I 2022-08-28 23:32:54.639 ServerApp] Kernel shutdown: e21cf49a-901a-48fc-954a-ca7859b4e4ed
+[I 2022-08-28 23:32:54.646 ServerApp] EOF on FD 21; stopping reading
+[I 2022-08-28 23:32:54.750 ServerApp] Terminal 2 closed
+[I 2022-08-28 23:32:54.786 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-08-28 23:32:54.787 ServerApp] Shutting down 1 extension
+[I 2022-08-28 23:32:54.787 ServerApp] Shutting down 0 terminals
